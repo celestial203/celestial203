@@ -64,11 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=celestial203&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/celestial203/celestial203/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/celestial203/celestial203/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/celestial203/celestial203/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 ---
