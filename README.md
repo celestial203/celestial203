@@ -1,6 +1,5 @@
 <h1 align="center" style="color:#ff66b2;">Hi 👋, I'm Jessa Tenebro</h1>
-<h3 align="center" style="color:#ff99cc;">Aspiring Frontend Developer | Web Enthusiast</h3>
-<h3 align="center">I'm still in the process of learning front-end development.</h3>
+<h3 align="center" style="color:#ff99cc;">Web Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=ff66b2&center=true&vCenter=true&width=500&lines=Frontend+Developer+💖;Web+Designer+🎨;React+Learner+⚛️;Open+to+Collaborations+🚀" />
